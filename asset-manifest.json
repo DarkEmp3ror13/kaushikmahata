@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kaushikmahata/static/css/main.bf2d96c8.css",
+    "main.js": "/kaushikmahata/static/js/main.41819b3e.js",
+    "static/media/me.png": "/kaushikmahata/static/media/me.c891be1cf2db68b26a99.png",
+    "static/media/me-about.jpg": "/kaushikmahata/static/media/me-about.a5270c24b2403f349220.jpg",
+    "static/media/cv.pdf": "/kaushikmahata/static/media/cv.6d608559c0fb65a65fc8.pdf",
+    "index.html": "/kaushikmahata/index.html",
+    "main.bf2d96c8.css.map": "/kaushikmahata/static/css/main.bf2d96c8.css.map",
+    "main.41819b3e.js.map": "/kaushikmahata/static/js/main.41819b3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf2d96c8.css",
+    "static/js/main.41819b3e.js"
+  ]
+}
